@@ -1,3 +1,4 @@
+// Load the built-in 'fs' module, which lets us work with the filesystem
 const fs = require('fs');
 
 // read the file path from command line arguments
